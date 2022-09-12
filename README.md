@@ -2,9 +2,9 @@
 
 Formação
 
- - Técnico em Informática ->Formado
- - Engenharia Civil - Formado
- - MBA em Marketing Digital - Formado
+ - Técnico em Informática
+ - Engenharia Civil
+ - MBA em Marketing Digital
  - Tecnologo em Desenvolvimento de Sistemas - Cursando
  - Programador - Trybe -> Cursando
  - Um eterno aprendiz!!!
