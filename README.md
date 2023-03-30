@@ -5,8 +5,7 @@ Formação
  - Técnico em Informática
  - Engenharia Civil
  - MBA em Marketing Digital
- - Tecnologo em Desenvolvimento de Sistemas - Cursando
- - Programador - Trybe -> Cursando
+ - Desenvolvimento Web - Trybe
  - Um eterno aprendiz!!!
 
 
