@@ -6,7 +6,6 @@ Formação
  - Engenharia Civil
  - MBA em Marketing Digital
  - Desenvolvimento Web - Trybe
- - Um eterno aprendiz!!!
 
 
 
