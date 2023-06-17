@@ -1,7 +1,7 @@
 ## Olá! Eu sou Thiago Rangel  👋
 
 ### Sempre em busca de novas formas de aplicar a tecnologia aos negócios.
-</br></br>
+</br>
 Formação
 
  - Técnico em Informática
