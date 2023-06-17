@@ -1,11 +1,11 @@
-### Olá! Eu sou Thiago Rangel 👋
+### Olá! Eu sou Thiago Rangel, sempre em busca de novas formas de aplicar a tecnologia aos negócios. 👋
 
 Formação
 
  - Técnico em Informática
  - Engenharia Civil
  - MBA em Marketing Digital
- - Desenvolvimento Web - Trybe
+ - Desenvolvedor Web Full Stack
 
 
 
