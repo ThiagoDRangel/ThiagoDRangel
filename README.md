@@ -1,5 +1,8 @@
 ### Olá! Eu sou Thiago Rangel 👋
+
 sempre em busca de novas formas de aplicar a tecnologia aos negócios.
+
+
 
 Formação
 
