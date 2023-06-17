@@ -1,13 +1,13 @@
-### Olá! Eu sou Thiago Rangel 👋
+## Olá! Eu sou Thiago Rangel  👋
 
-sempre em busca de novas formas de aplicar a tecnologia aos negócios. </br>
-
+### Sempre em busca de novas formas de aplicar a tecnologia aos negócios.
+</br></br>
 Formação
 
  - Técnico em Informática
  - Engenharia Civil
  - MBA em Marketing Digital
- - Desenvolvedor Web Full Stack
+ - Desenvolvedor Web Full Stack </br></br></br>
 
 
 
@@ -15,7 +15,7 @@ Formação
   <a href="https://github.com/ThiagoDRangel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagoDRangel"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoDRangel&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+</div></br>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Thi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
