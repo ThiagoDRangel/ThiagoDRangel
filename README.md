@@ -7,7 +7,9 @@ Formação
  - Técnico em Informática
  - Engenharia Civil
  - MBA em Marketing Digital
- - Desenvolvedor Web Full Stack </br></br></br>
+ - Desenvolvedor Web Full Stack - Trybe
+ - Desenvolvedor Backend java/spring - DevSuperior
+ - Bootcamp Santander 2023 Backend - Java </br></br></br>
 
 
 
