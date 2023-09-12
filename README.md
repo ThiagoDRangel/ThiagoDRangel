@@ -12,11 +12,13 @@ Formação
  - Bootcamp Santander 2023 Backend - Java </br></br></br>
 
 
-
+<div>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=thiagodrangel&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Thiago's github stats" />
+</div
 <div align="center">
   <a href="https://github.com/ThiagoDRangel">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=thiagoDRangel"/>
-   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoDRangel&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=thiagodrangel"/>
+   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagodrangel&layout=compact&langs_count=7&theme=dracula"/>
 </div></br>
 
 <div style="display: inline_block"><br>
@@ -30,6 +32,4 @@ Formação
 </div>
 </br>
 </br>
-<div>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=thiagodrangel&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Thiago's github stats" />
-</div
+
