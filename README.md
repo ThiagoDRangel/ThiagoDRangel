@@ -31,8 +31,5 @@ Formação
 </br>
 </br>
 <div>
-    <a href = "mailto:info.tec.campos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-     <a href="mailto:info.tec.campos@gmail.com" target="_blank">
-  <a href = "https://www.linkedin.com/in/thiagodrangel/"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-      <a href="https://www.linkedin.com/in/thiagodrangel/" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=thiagodrangel&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Thiago's github stats" />
 </div
