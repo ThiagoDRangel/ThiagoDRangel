@@ -1,7 +1,7 @@
 ### Hey there, I'm Thiago
 
 I love open-source software.
-I love [Java](https://docs.oracle.com/en/java/) and [React](https://legacy.reactjs.org/docs/getting-started.html).
+I love [Java](https://docs.oracle.com/en/java/) and [React](https://legacy.reactjs.org/docs/getting-started.html). </br>
 E-mail: info.tec.campos@gmail.com
 
 
